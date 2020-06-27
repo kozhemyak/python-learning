@@ -22,6 +22,7 @@ The Python Standard Library:
 - `sys`
 - `logging`
 - `pickle` - use to store any plain Python object in a file and then get it back later.
+- `time`
 
 ---
 Nikolay @ No copyright

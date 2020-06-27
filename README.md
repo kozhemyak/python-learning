@@ -15,6 +15,7 @@ As the sources are used:
 
 - [X] Working with files
 - [ ] Unicode and non-English characters
+- [ ] https://python.swaroopch.com/more.html
 
 
 ## Useful modules

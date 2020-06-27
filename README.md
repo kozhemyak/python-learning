@@ -9,5 +9,12 @@ As the sources are used:
 - [Flask](https://flask.palletsprojects.com)
 - [Youtube](https://www.youtube.com/results?search_query=python+flask)
 
+
+## Useful modules
+
+The Python Standard Library:
+- `sys`
+- `logging`
+
 ---
-No copyright
+Nikolay @ No copyright

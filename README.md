@@ -10,11 +10,18 @@ As the sources are used:
 - [Youtube](https://www.youtube.com/results?search_query=python+flask)
 
 
+## Topics to cover
+
+- [X] Working with files
+- [ ] Unicode and non-English characters
+
+
 ## Useful modules
 
 The Python Standard Library:
 - `sys`
 - `logging`
+- `pickle` - use to store any plain Python object in a file and then get it back later.
 
 ---
 Nikolay @ No copyright
